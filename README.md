@@ -1,1 +1,1 @@
-## simple-portofolio website made with react
+## simple-portfolio website made with react
