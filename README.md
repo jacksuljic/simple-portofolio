@@ -1,1 +1,1 @@
-## simple-portfolio website made with react
+## simple-portfolio website made with next.js
